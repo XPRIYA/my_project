@@ -1,1 +1,1 @@
-SWE525 Version Control class happy!
+SWE525 Version Control class
